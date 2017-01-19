@@ -1,3 +1,3 @@
 # angular
-Angular test
+Angular excercise
 by Elliot Tanner
