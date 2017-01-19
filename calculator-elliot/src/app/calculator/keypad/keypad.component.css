@@ -1,0 +1,28 @@
+
+
+
+button {
+  width : 32px;
+  display: inline-block;
+  margin: 4px 0px 0px 0px;
+ 
+  font-size: 20px;
+  
+  line-height: 1.8;
+
+  box-shadow: none;
+  border-radius: 0;
+  color: #fff;
+  background-color: #6496c8;
+  text-shadow: -1px 1px #417cb8;
+  border: none;
+}
+
+
+button.double {
+    width: 68px;
+}
+
+button:focus {
+  outline: none
+}
