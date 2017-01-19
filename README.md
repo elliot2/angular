@@ -1,3 +1,3 @@
 # angular
-Angular excercise
+Angular exercise
 by Elliot Tanner
